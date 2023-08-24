@@ -1,4 +1,4 @@
-### Hi there 👋, I'm Kéba | an  Native Android Developer (Kotlin & Java) | Flutter (Dart) 📱👨
+### Hi there 👋, I'm Kéba | an  Native Android Developer (Kotlin & Java) | Flutter (Dart) 📱👨 & Back (Web Development)
 
 Experienced native Android Developer particularly adept at java, kotlin and junior flutter. build an app from scratch to publish in google play. a mid-level Android developer position in mobile development. Willing to help the team achieve company goals.
 
